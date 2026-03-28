@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecretScan</string>
+    <string name="take_photo">📷  Tomar Foto</string>
+    <string name="pick_gallery">🖼️  Elegir Imagen</string>
+    <string name="scanning">Escaneando…</string>
+    <string name="no_text_found">No se detectó texto en la imagen.</string>
+    <string name="copy_btn">📋  Copiar</string>
+    <string name="save_btn">💾  Guardar</string>
+    <string name="back_btn">🔙  Volver</string>
+    <string name="copied">Texto copiado al portapapeles</string>
+    <string name="saved_format">%1$s guardado en descargas</string>
+    <string name="save_error">Error al guardar el archivo</string>
+    <string name="crop_title">Recortar imagen</string>
+    <string name="crop_error">Error al recortar la imagen</string>
+    <string name="camera_permission_required">Se necesita permiso de cámara</string>
+    <string name="edit_hint">Edita el texto aquí…</string>
+    <string name="subtitle">Escaneo de texto 100% offline</string>
+</resources>

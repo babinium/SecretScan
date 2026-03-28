@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Configuración para uCrop: barra más grande y botones más fáciles de tocar -->
+    <dimen name="ucrop_height_toolbar">80dp</dimen>
+    <!-- Opcional: Aumentar el tamaño del texto u otras áreas si es necesario -->
+</resources>
