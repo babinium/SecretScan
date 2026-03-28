@@ -10,6 +10,15 @@ Una aplicación Android diseñada para escanear y extraer texto de documentos o 
 - **Autodestrucción de Fotos**: Si tomas la foto con la cámara integrada, la imagen se elimina automáticamente una vez escaneada, no dejando rastros en el dispositivo. 
 - **Exportación Anónima**: Guarda el texto extraído directamente en tu carpeta de Descargas como un archivo plano `.txt` con un nombre asignado al azar (ej: `xkqmr.txt`), o simplemente cópialo al portapapeles.
 
+## 📱 Capturas de Pantalla
+
+<p align="center">
+  <img src="screenshots/1.jpeg" width="22%" />
+  <img src="screenshots/2.jpeg" width="22%" />
+  <img src="screenshots/3.jpeg" width="22%" />
+  <img src="screenshots/4.jpeg" width="22%" />
+</p>
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **Kotlin** & **Android SDK** (API 35 optimizado, Edge-to-Edge).
